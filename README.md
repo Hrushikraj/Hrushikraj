@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Frida Projects.**
 
-- 📫 How to reach me **hrushikraj25@gmail.com**
+- 📫 How to reach me **hrushikrajs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
