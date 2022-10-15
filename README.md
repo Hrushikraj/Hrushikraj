@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Reverse Projects**
 
-- 🌱 I’m currently learning **c++, Python,Java**
+- 🌱 I’m currently learning **c++, Python,Java/Kotlin**
 
 - 👯 I’m looking to collaborate on **Frida,Radare 2 experts**
 
