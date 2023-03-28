@@ -31,8 +31,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Hrushikraj&count_private=true&theme=tokyonight&showicons=true" </p>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Hrushikraj&count_private=true&theme=tokyonight&showicons=true" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" /> </p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikraj&" alt="hrushikraj" /></p>
