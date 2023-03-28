@@ -19,7 +19,7 @@
 <a href="https://instagram.com/hrushik_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrushik_raj_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hrushik_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrushik_raj" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/hrushikrajs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrushik_raj" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/hrushikrajs/" target="blank"><img align="center" src="https://gist.github.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1?short_path=5713a26#file-telegram-single-path-240px-svg" alt="hrushik_raj" height="30" width="40" /></a>
+    <a href="https://t.me/in/lazyhacker25/" target="blank"><img align="center" src="https://github.com/Hrushikraj/Hrushikraj/blob/main/src/telegram-svgrepo-com.svg" alt="hrushik_raj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
