@@ -25,5 +25,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrushikraj&show_icons=true&locale=en" alt="hrushikraj" /></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrushikraj&show_icons=true&theme=transparent)
+<a href="https://github.com/hrushikraj/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hrushikraj&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikraj&" alt="hrushikraj" /></p>
