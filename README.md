@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Android Reverse Projects**
 
-- 🌱 I’m currently learning **Python,Java/Kotlin**
+- 🌱 I’m currently learning **Python, Kotlin**
 
 - 👯 I’m looking to collaborate on **Frida,Radare 2 experts**
 
 - 🤝 I’m looking for help with **Frida & Kotlin Projects.**
 
-- 📫 How to reach me **hrushikrajs@gmail.com**
+- 📫 How to reach me **hrushikraj25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
