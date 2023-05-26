@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning **Python, Kotlin**
 - 🎮 I enjoy breaking packers and protectors in the world of software security.
-
-- 🤝 I’m looking for help with **Frida & Kotlin Projects.**
-
 - 📫 How to reach me **hrushikraj25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
