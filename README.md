@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on **Android Reverse Projects**
 
 - 🌱 I’m currently learning **Python, Kotlin**
-
-- 👯 I’m looking to collaborate on **Frida,Radare 2 experts**
+- 🎮 I enjoy breaking packers and protectors in the world of software security.
 
 - 🤝 I’m looking for help with **Frida & Kotlin Projects.**
 
