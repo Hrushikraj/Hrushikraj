@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Reverse Projects**
 
-- 🌱 I'm now concentrating on improving my JavaScript and Python abilities.
+- 🌱 I'm now concentrating on improving the analysis and unpacking of malware.
 - 🎮 I enjoy breaking packers and protectors in the world of software security.
 - 📫 How to reach me **hrushikraj25@gmail.com**
 
