@@ -7,7 +7,7 @@
 
 - 🌱 I'm now concentrating on improving the analysis and unpacking of malware.
 - 🎮 I enjoy breaking packers and protectors in the world of software security.
-- 📫 How to reach me **hrushikraj25@gmail.com**
+- 📫 How to reach me **hrushikrajs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
