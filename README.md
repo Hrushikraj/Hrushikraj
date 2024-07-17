@@ -28,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikraj&langs_count=5&theme=tokyonight"  /> </p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikraj&" alt="hrushikraj" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikraj&" alt="hrushikraj" /></p>  -->
+
