@@ -2,10 +2,13 @@
 <h3 align="center">A passionate malware enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrushikraj&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikraj" /> </p>
-
-- 🔭 I’m currently working on **Android Reverse Projects**--
-- 🌱 I'm now concentrating on improving the analysis and unpacking of malware.--
-- 🎮 I enjoy breaking packers and protectors in the world of software security.--
+<p align="center">
+- 🔭 I’m currently working on **Android Reverse Projects**
+<p align="center">
+- 🌱 I'm now concentrating on improving the analysis and unpacking of malware.
+  <p align="center">
+- 🎮 I enjoy breaking packers and protectors in the world of software security.
+    <p align="center">
 - 📫 How to reach me **hrushikrajs@gmail.com**   
 
 <h3 align="center">Connect with me:</h3>
