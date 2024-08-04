@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hrushik Raj</h1>
 <h3 align="center">A passionate malware enthusiast from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hrushikraj&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikraj" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrushikraj&label=Profile%20views&color=0e75b6&style=flat" alt="hrushikraj" /> </p>
+<p align="center">
 - 🔭 I’m currently working on **Android Reverse Projects**
 
 - 🌱 I'm now concentrating on improving the analysis and unpacking of malware.
 - 🎮 I enjoy breaking packers and protectors in the world of software security.
-- 📫 How to reach me **hrushikrajs@gmail.com**
+- 📫 How to reach me **hrushikrajs@gmail.com** </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
