@@ -25,7 +25,7 @@
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Hrushikraj&count_private=true&theme=tokyonight&showicons=true" /> </p> -->
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikraj&langs_count=5&theme=meta-light"  /> </p> 
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrushikraj&langs_count=5&theme=meta-light"  /> </p> -->
 
 <!-- [![Harlok's WakaTime stats](
 
