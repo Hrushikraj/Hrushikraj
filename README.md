@@ -34,5 +34,5 @@
 )](https://github.com/anuraghazra/github-readme-stats) -->
  <!-- <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrushikraj&" alt="hrushikraj"&theme=whatsapp-light2" /></p>  -->
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrushikraj&show_icons=true&locale=en&layout=compact&theme=meta-light" alt="hrushikraj" /></p>
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hrushikraj&theme=meta-light" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hrushikraj&exclude_days=Sun" alt="GitHub Streak" /></a>
 
