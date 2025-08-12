@@ -16,7 +16,7 @@
   <a href="https://g.dev/hrushikrajs" target="blank"><img align="center" src="https://github.com/Hrushikraj/Hrushikraj/blob/main/src/developers_google.svg" alt="hrushik_raj" height="30" width="40" /></a>  
 <a href="https://twitter.com/hrushik_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hrushik_raj" height="30" width="40" /></a>
 <!--  <a href="https://www.hackerrank.com/hrushik_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hrushik_raj" height="30" width="40" /></a>  -->
-<a href="https://t.me/lazyhacker25/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="hrushik_raj" height="30" width="40" /></a>   
+<!-- <a href="https://t.me/lazyhacker25/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="hrushik_raj" height="30" width="40" /></a>   -->
    <a href="https://instagram.com/hrushik_raj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hrushik_raj_" height="30" width="40" /></a> 
 </p>
 
